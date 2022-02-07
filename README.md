@@ -93,6 +93,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐋𝐁𝐈𝐍](https://t.me/Master_Brain1)                                                                                                                                        
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Hacker](https://t.me/Master_Brain1)                                                                                                                                        
 𝙶𝚁𝙾𝚄𝙿 ›› [Malayalam Rockers](https://t.me/MalayalamRocckers)                                             
 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [Tamil Rockers](https://t.me/TamilRockerssk)
